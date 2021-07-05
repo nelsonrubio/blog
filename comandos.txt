@@ -1,0 +1,5 @@
+git branch nombreDeLaRama : permite crear ramas en git
+git checkout nombreDeLaRama : permite moverce entre ramas
+git merge nombreDeLaRama : Permite fusionar los cambios de otras ramas a master
+
+quede en la clase 22 para ver la 23
